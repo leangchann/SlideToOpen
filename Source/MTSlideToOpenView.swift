@@ -224,7 +224,7 @@ import UIKit
             sliderTextLabel.mt_flipView()
         }
         
-        thumnailImageView.layer.corderRadius = sliderCornderRadius
+        thumnailImageView.layer.corderRadius = sliderCornerRadius
         thumnailImageView.layer.masksToBounds = true
         thumnailImageView.clipsToBounds = true
         
